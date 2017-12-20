@@ -23,6 +23,10 @@ I used two different datasets to get different results.
 
 2. Schizophrenia Dataset: Kaggle MLSP 2014 provides this dataset. It consists of 410 multimodal features divided into two sets. These features are combined together for training.
 
+### Credits: 
+Oasis: http://www.oasis-brains.org/
+Kaggle: https://www.kaggle.com/c/mlsp-2014-mri
+
 ## Approach
 
 1. Data Preprocessing: The implementation for both datasets is almost similar for the data preprocessing part. I wrote the preprocessing function for the Dementia data in order to normalize the different columns. I took the maximum value of each column and divided the entire column with that value in order to bring the feature set in the same ranges. The other dataset consists features in the comparable range hence, doesn't need to ne normalized.
