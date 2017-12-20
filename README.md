@@ -12,6 +12,8 @@ My implementation of the project progresses in the exact same way as the paper d
 1. project\_ilp\_dementia-id3\_final: Contains python implementation of ID3 Decision Trees for Dementia data analysis.
 2. project\_ilp\_dementia-svm: Contains python implementation of Support Vector Machines for Dementia data analysis.
 3. project\_ilp\_schiz\_id3-feat\_sel: Contains python implementation of ID3 Decision Trees for Schizophrenia data analysis.
+4. final\_oasis\_dementia.csv: Dataset Dementia
+5. train\_FNC.csv, train\_SBM.csv, train\_labels.csv: Dataset Schizophrenia
 
 ## Dataset
 
