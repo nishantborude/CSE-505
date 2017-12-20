@@ -23,7 +23,7 @@ I used two different datasets to get different results.
 
 2. Schizophrenia Dataset: Kaggle MLSP 2014 provides this dataset. It consists of 410 multimodal features divided into two sets. These features are combined together for training.
 
-### Credits: 
+### Data Credits: 
 Oasis: http://www.oasis-brains.org/
 Kaggle: https://www.kaggle.com/c/mlsp-2014-mri
 
