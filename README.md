@@ -7,6 +7,12 @@ The paper mainly focuses on the data analysis of the Breast Cancer dataset and a
 The original project consists of multimodal features of the particular disease collected with collaboration of specialists in the field and the ILP scientists hence the data is confidential.
 My implementation of the project progresses in the exact same way as the paper depicts but in python on a different dataset.
 
+## Files
+
+1. project\_ilp\_dementia-id3\_final: Contains python implementation of ID3 Decision Trees for Dementia data analysis.
+2. project\_ilp\_dementia-svm: Contains python implementation of Support Vector Machines for Dementia data analysis.
+3. project\_ilp\_schiz\_id3-feat\_sel: Contains python implementation of ID3 Decision Trees for Schizophrenia data analysis.
+
 ## Dataset
 
 I used two different datasets to get different results.
